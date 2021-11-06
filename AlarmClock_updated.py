@@ -75,3 +75,7 @@ def main():
 
     #Open a random video from the list
     webbrowser.open(random.choice(videos))
+    
+if __name__ == "__main__":
+    main()
+    
